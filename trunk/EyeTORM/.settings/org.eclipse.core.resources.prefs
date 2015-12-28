@@ -1,0 +1,9 @@
+#Fri Aug 31 09:43:18 CST 2012
+eclipse.preferences.version=1
+encoding//src/com/eyet/framework/orm/Inquery.java=UTF-8
+encoding//src/com/eyet/framework/orm/Model.java=UTF-8
+encoding//src/com/eyet/framework/orm/SQLPrepareBuilder.java=UTF-8
+encoding//src/com/eyet/framework/orm/annotation/EntityId.java=UTF-8
+encoding//src/lib/model/entity/User.java=UTF-8
+encoding//src/test/TestModelSqlExe.java=UTF-8
+encoding/src=UTF-8
